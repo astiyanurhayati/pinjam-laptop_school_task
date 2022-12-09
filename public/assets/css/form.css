@@ -1,0 +1,19 @@
+body{
+   background: url("http://localhost:8000/assets/images/bgform.png") no-repeat center;
+   height: 100vh;  
+   min-height: 500px;
+   background-size: cover;
+   background-attachment: fixed;
+   font-family: "Ubuntu", sans-serif;
+}
+
+.card{
+   background-color: rgba(0, 0, 0, 0.393);
+   margin: 50px 100px;
+}
+label{
+   color: white;
+}
+h1{
+   color: white;
+}
